@@ -23,6 +23,7 @@ namespace GettingStarted
                     if ("letmein" == enteredpass)
                     {
                         Console.WriteLine("Username and password authenticated... you may proceed");
+                        break;
                     }
                 }
                 else
