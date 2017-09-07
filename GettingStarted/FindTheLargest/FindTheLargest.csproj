@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E3637C28-1ED8-480B-A67F-F6F38144A83E}</ProjectGuid>
+    <ProjectGuid>{AC83A8FD-C4D4-450C-A326-63389D7D6378}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GettingStarted</RootNamespace>
-    <AssemblyName>GettingStarted</AssemblyName>
+    <RootNamespace>FindTheLargest</RootNamespace>
+    <AssemblyName>FindTheLargest</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

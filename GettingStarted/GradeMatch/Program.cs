@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GettingStarted
+namespace GradeMatch
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace GettingStarted
             Console.Write("Input the grade: ");
             String grade = Console.ReadLine().ToUpper();
             String letter = "";
-            if (grade == "E") 
+            if (grade == "E")
             {
                 letter = "Excellent";
             }
@@ -23,7 +23,7 @@ namespace GettingStarted
                 letter = "Very Good";
             }
 
-            if (grade == "G") 
+            if (grade == "G")
             {
                 letter = "Good";
             }
@@ -33,11 +33,12 @@ namespace GettingStarted
                 letter = "Average";
             }
 
-            if (grade == "F") 
+            if (grade == "F")
             {
                 letter = "Fail";
             }
             Console.Write(" You have chosen: " + letter);
+
 
         }
     }
