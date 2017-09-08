@@ -46,7 +46,7 @@ namespace SimpleCalculator1
 
 
 
-            Console.Write("Result: " + answer);
+            Console.Write("Result: "+ Input + " = " + answer);
         }
     }
 }
