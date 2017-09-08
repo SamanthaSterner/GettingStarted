@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeMatch", "GradeMatch\Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectPassowrd", "CorrectPassowrd\CorrectPassowrd.csproj", "{519241F9-0D8B-44AE-AC87-C595860F85CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator1", "..\SimpleCalculator1\SimpleCalculator1.csproj", "{E4351110-64FC-4447-9370-2D967C5C77D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{519241F9-0D8B-44AE-AC87-C595860F85CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519241F9-0D8B-44AE-AC87-C595860F85CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519241F9-0D8B-44AE-AC87-C595860F85CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4351110-64FC-4447-9370-2D967C5C77D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4351110-64FC-4447-9370-2D967C5C77D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4351110-64FC-4447-9370-2D967C5C77D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4351110-64FC-4447-9370-2D967C5C77D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

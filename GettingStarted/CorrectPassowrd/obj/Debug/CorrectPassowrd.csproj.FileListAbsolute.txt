@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\CorrectPassowrd\bin\Debug\CorrectPassowrd.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\CorrectPassowrd\bin\Debug\CorrectPassowrd.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\CorrectPassowrd\bin\Debug\CorrectPassowrd.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\CorrectPassowrd\obj\Debug\CorrectPassowrd.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\CorrectPassowrd\obj\Debug\CorrectPassowrd.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\CorrectPassowrd\obj\Debug\CorrectPassowrd.pdb

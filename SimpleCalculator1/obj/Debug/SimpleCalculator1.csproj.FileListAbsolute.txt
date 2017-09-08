@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\SimpleCalculator1\bin\Debug\SimpleCalculator1.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\SimpleCalculator1\bin\Debug\SimpleCalculator1.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\SimpleCalculator1\bin\Debug\SimpleCalculator1.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\SimpleCalculator1\obj\Debug\SimpleCalculator1.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\SimpleCalculator1\obj\Debug\SimpleCalculator1.pdb
