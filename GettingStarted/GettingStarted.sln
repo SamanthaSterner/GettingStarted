@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeciToBinary", "..\DeciToBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{1786777C-DB75-4C29-85F9-19E42B074F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteFood", "..\FavoriteFood\FavoriteFood.csproj", "{5BA84CD7-A550-468A-8592-F46368928669}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1786777C-DB75-4C29-85F9-19E42B074F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1786777C-DB75-4C29-85F9-19E42B074F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1786777C-DB75-4C29-85F9-19E42B074F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA84CD7-A550-468A-8592-F46368928669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA84CD7-A550-468A-8592-F46368928669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA84CD7-A550-468A-8592-F46368928669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA84CD7-A550-468A-8592-F46368928669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
