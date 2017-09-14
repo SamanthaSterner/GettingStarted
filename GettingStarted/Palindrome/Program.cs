@@ -13,7 +13,8 @@ namespace Palindrome
             Console.Write("Enter a Phrase: ");
             String phrase = Console.ReadLine();
             char[] reverse = phrase.ToCharArray();
-            reverse.Reverse();
+            Array.Reverse(reverse);
+           
             String pal = new String(reverse);
             if (pal == phrase)
             {
