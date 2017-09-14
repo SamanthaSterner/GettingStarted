@@ -23,6 +23,10 @@ namespace Palindrome
             {
                 Console.Write("\"" + phrase + "\" is not a palindrome.");
             }
+
+
+
+
         }
     }
 }
