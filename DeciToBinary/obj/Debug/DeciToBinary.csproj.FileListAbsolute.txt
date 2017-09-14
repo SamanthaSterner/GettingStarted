@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\DeciToBinary\bin\Debug\DeciToBinary.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\DeciToBinary\bin\Debug\DeciToBinary.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\DeciToBinary\bin\Debug\DeciToBinary.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\DeciToBinary\obj\Debug\DeciToBinary.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\DeciToBinary\obj\Debug\DeciToBinary.pdb
