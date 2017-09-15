@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
